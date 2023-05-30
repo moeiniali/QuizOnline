@@ -1,4 +1,6 @@
 # QuizOnline
+npm install
+
 #install tailwincss-------
 npm install -D tailwindcss
 npx tailwindcss init
